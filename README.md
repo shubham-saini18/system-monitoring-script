@@ -25,12 +25,15 @@ To use these scripts, follow these steps:
    chmod +x system_monitor.sh
 
    
-Usage
+### Usage
 Run the script using the following command:
 ```bash
 ./system_monitor.sh
+```
+
 
 Menu Options
+
 Once the script is running, you'll see a menu with the following options:
 
 1. View CPU Usage
@@ -39,4 +42,19 @@ Once the script is running, you'll see a menu with the following options:
 4. Monitor a Service
 5. Exit
 
+Select an option by entering the corresponding number.
+
+Customization
+
+You can modify the sleep interval for continuous monitoring within the script. Simply enter the desired number of seconds when prompted.
+
+Requirements
+
+1. A Unix-like operating system (Linux, macOS)
+2. Bash shell
+3. top, free, and df commands available
+
+Contributing
+
+If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Any contributions, improvements, or suggestions are welcome!
 

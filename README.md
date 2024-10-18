@@ -31,5 +31,12 @@ Run the script using the following command:
 ./system_monitor.sh
 
 Menu Options
+Once the script is running, you'll see a menu with the following options:
+
+1. View CPU Usage
+2. View Memory Usage
+3. View Disk Space Usage
+4. Monitor a Service
+5. Exit
 
 

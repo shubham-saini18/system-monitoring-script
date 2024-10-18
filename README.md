@@ -18,14 +18,16 @@ To use these scripts, follow these steps:
    ```bash
    git clone https://github.com/shubham-saini18/system-monitoring-script.git
 2. Navigate to the Directory:
+   ```bash
     cd system-monitoring-script
 3. Make the Script Executable:
+   ```bash
    chmod +x system_monitor.sh
 
    
 Usage
 Run the script using the following command:
-
+```bash
 ./system_monitor.sh
 
 Menu Options

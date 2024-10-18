@@ -27,8 +27,8 @@ To use these scripts, follow these steps:
    
 Usage
 Run the script using the following command:
-```bash
-./system_monitor.sh
+    ```bash
+   ./system_monitor.sh
 
 Menu Options
 Once the script is running, you'll see a menu with the following options:

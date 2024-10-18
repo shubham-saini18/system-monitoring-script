@@ -27,27 +27,9 @@ To use these scripts, follow these steps:
    
 Usage
 Run the script using the following command:
-    ```bash
-   ./system_monitor.sh
-
-
+```bash
+./system_monitor.sh
 
 Menu Options
-Once the script is running, you'll see a menu with the following options:
 
-View CPU Usage
-View Memory Usage
-View Disk Space Usage
-Monitor a Service
-Exit
-Select an option by entering the corresponding number.
 
-Customization
-You can modify the sleep interval for continuous monitoring within the script. Simply enter the desired number of seconds when prompted.
-
-Requirements
-A Unix-like operating system (Linux, macOS)
-Bash shell
-top, free, and df commands available
-Contributing
-If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Any contributions, improvements, or suggestions are welcome!
